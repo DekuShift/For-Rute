@@ -1,0 +1,49 @@
+.HD {
+color: rgb(139, 10, 96);
+background-color: rgba(255, 0, 157, 0.836);
+font-size: x-large;
+font-family: fantasy;
+padding-bottom: 1%;
+padding-top: 1%;
+border: 10%;
+
+}
+body {
+
+    background-color: rgba(223, 11, 110, 0.877);
+}
+.Dedicate {
+    
+    color: purple;
+    -webkit-text-stroke: 1px black;
+
+}
+.Sec1 {
+    font-size: medium ;
+margin-top: 2%;
+    background-color: rgb(255, 0, 179);
+    border-style: solid;
+    padding-bottom: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.Ex {
+    font-size: medium;
+}
+.naboo {
+    max-height: 200px;
+}
+
+.Xuxa {
+
+border-radius: 10px;
+
+}
+.Hist {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.Fim {
+color: rgb(132, 0, 255);
+    -webkit-text-stroke: 1px black;
+}
